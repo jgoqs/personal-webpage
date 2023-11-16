@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>João Gonçalo Oliveira Quelhas da Silva - jgoqs</title>
+    <style>
+        body {
+            background-color: black;
+            color: green;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        header {
+            padding: 2em;
+        }
+
+        section {
+            padding: 2em;
+        }
+
+        footer {
+            padding: 1em;
+            background-color: green;
+            color: black;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>João Gonçalo Oliveira Quelhas da Silva</h1>
+        <p>Display Name: jgoqs</p>
+    </header>
+
+    <section>
+        <h2>Welcome to My Personal Webpage!</h2>
+        <p>No bio available.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 João Gonçalo Oliveira Quelhas da Silva | jgoqs</p>
+    </footer>
+
+</body>
+
+</html>
